@@ -30,12 +30,11 @@ python src/clean.py
 - 
 
 ## Project structure
-\`\`\`
 job-market-eda/
-├── data/raw/          # scraped, untouched
-├── data/processed/    # cleaned data
-├── notebooks/eda.ipynb
-├── src/scraper.py
-├── src/clean.py
-└── outputs/figures/
-\`\`\`
+  data/raw/          # scraped, untouched
+  data/processed/    # cleaned data
+  notebooks/eda.ipynb
+  src/
+    scraper.py
+    clean.py
+  outputs/figures/

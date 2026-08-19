@@ -49,8 +49,8 @@ streamlit run app.py
 
 ## Project structure
 job-market-eda/  
-  data/raw/          # kaggle dataset 
-  data/processed/    # cleaned data[CSV file]
+  data/raw/          # kaggle dataset  
+  data/processed/    # cleaned data[CSV file]  
   notebooks/eda.ipynb  
   src/    
     clean.py  
